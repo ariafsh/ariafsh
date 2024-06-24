@@ -1,5 +1,3 @@
-## Hi there 👋, I am Aria
-
 <h1 align="center">Hi 👋, I'm Aria</h1>
 <h3 align="center">back-end Developer</h3>
 <p align="center">Born in 1997,  Full time Laravel developer.</p>
